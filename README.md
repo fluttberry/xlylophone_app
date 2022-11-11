@@ -1,4 +1,4 @@
-# xlylophone_app_completed
+# xylophone_app
 
 A new Flutter project.
 
